@@ -7,6 +7,13 @@
         "version": "6",
         "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW"
       }
+    ],
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "Sheets",
+        "version": "v4",
+        "serviceId": "sheets"
+      }
     ]
   },
   "exceptionLogging": "STACKDRIVER",
